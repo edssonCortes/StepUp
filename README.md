@@ -3,3 +3,5 @@ OLSoftware es una empresa caleña fundada en 2007 la cual ofrece servicios de F�
 El objetivo de StepUp fue realizar un prototipado que permitiera los usuarios del sistema tener una visión clara de los cargos en su empresa y el estatus en el que se encuentran, esto con el fin de saber qué competencias requieren para alcanzar dichos cargos.
 
 La herramienta que se utilizo para dicho prototipado fue Figma.
+
+El prototipado lo puedes ver en el siguiente link: https://www.figma.com/proto/cOuwHdvoaP2Hcgiyn5XBaz/Colaboradores-Prototipado?node-id=201%3A1519&scaling=min-zoom.
